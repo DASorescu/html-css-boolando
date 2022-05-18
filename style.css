@@ -26,6 +26,10 @@ display: flex;
      left: 0px;
 }
 
+.p-relative{
+    position: relative;
+}
+
 /* header */
 
 header{
@@ -43,5 +47,20 @@ header{
     height: 30px;
 }
 
+/* main */
+main .container{
+    margin-top: 140px;
+}
 
 
+
+.chloting-img{
+    height: 400px;
+}
+
+.heart{
+    font-size: 50px;
+    position: absolute;
+    
+    
+}
