@@ -29,14 +29,19 @@ display: flex;
 /* header */
 
 header{
+    width: 100%;
     background-color: #FF6800;
     height: 80px;
 }
 .headpage{
+    height:100%;
     flex-direction: row;
     justify-content: space-between;
     align-items: center;
 }
-.logo{
+.logo-img{
     height: 30px;
 }
+
+
+
