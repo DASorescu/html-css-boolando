@@ -1,0 +1,42 @@
+*{
+    padding:0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+
+
+/* utils */
+
+.d-flex {
+display: flex;
+}
+
+.c-white{
+    color: #fff;
+}
+
+.container{
+    width: 1080px;
+    margin: 0 auto;
+}
+
+.fxd{
+     position: fixed;
+     top: 0px;
+     left: 0px;
+}
+
+/* header */
+
+header{
+    background-color: #FF6800;
+    height: 80px;
+}
+.headpage{
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+.logo{
+    height: 30px;
+}
